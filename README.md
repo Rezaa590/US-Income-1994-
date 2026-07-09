@@ -12,15 +12,16 @@ science workflow — from raw data cleaning to model evaluation
 and selection.
 ---
 
-## 👤 Author
+
+---
+
+## 📊 Dataset
+
 - Project completed as part of a data science 
   learning journey
 - Dataset: UCI Adult Census Income (1994)
 - Source: https://archive.ics.uci.edu/dataset/2/adult
 
----
-
-## 📊 Dataset
 - **Source:** UCI Machine Learning Repository — Adult Census Income
 - **Size:** 48,842 rows × 15 features
 - **Target variable:** `income` (`<=50K` or `>50K`)
