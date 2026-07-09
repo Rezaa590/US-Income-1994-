@@ -17,7 +17,7 @@ and selection.
   learning journey
 - Dataset: UCI Adult Census Income (1994)
 - Source: https://archive.ics.uci.edu/dataset/2/adult
-```
+
 ---
 
 ## 📊 Dataset
